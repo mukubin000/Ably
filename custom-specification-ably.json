@@ -955,7 +955,7 @@
                   {
                      "name": "project_key",
                       "in": "path",
-                      "description": "The project in question. This is the actual 'key' assigned to the project.",
+                      "description": "The project in question. This is the actual `key` assigned\nto the project.\n",
                       "required": true,
                       "type": "string"
                  },
