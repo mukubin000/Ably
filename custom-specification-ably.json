@@ -962,7 +962,7 @@
                  {
                       "name": "workspace",
                       "in": "path",
-                      "description": "This can either be the workspace ID (slug) or the workspace UUID surrounded by curly-braces, for example: '{workspace UUID}'.",
+                      "description": "This can either be the workspace ID (slug) or the workspace UUID surrounded by curly-braces, for example: {workspace UUID}.",
                       "required": true,
                       "type": "string"
                  }
